@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+    <h1>TN/SMOK"GANS</h1>
+    <img src="foto.png">
+    <audio controls>
+    <source src="lagu.mp3"></source></audio>
+</body>
+</html>
